@@ -1,0 +1,4 @@
+output/console/*
+output/windows/*
+src/*.obj
+src/*.exe
